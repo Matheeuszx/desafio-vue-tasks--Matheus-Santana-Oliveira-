@@ -81,7 +81,7 @@ Siga os passos abaixo no seu terminal:
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/Matheeuszx/desafio-vue-tasks--Matheus-Santana-Oliveira-.git](https://github.com/Matheeuszx/desafio-vue-tasks--Matheus-Santana-Oliveira-.git)
+    git clone https://github.com/Matheeuszx/desafio-vue-tasks--Matheus-Santana-Oliveira-.git
     cd desafio-vue-tasks-Matheus
     ```
 
